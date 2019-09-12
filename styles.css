@@ -1,0 +1,17 @@
+html {
+  font-family: Georgia, serif;
+}
+
+header, main, footer {
+  margin: 1rem auto;
+  max-width: 40rem;
+}
+
+header {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.logo {
+  max-width: 15rem;
+}
